@@ -72,6 +72,3 @@ parsed_kbp.each do |projects|
   end
 end
 
-
-#puts kbp.projects
-#puts response.body, response.code, response.message, response.headers.inspect
